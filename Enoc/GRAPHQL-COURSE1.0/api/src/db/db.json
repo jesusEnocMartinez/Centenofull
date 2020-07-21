@@ -1,0 +1,63 @@
+{
+    "user": {
+      "id": "jBWMVGjm50l6LGweDoty",
+      "username": "frontendmaster"
+    },
+    "pet": [
+      {
+        "id": "837295872394827",
+        "name": "Simba",
+        "owner": "jBWMVGjm50l6LGweDoty",
+        "type": "Dog",
+        "img": "https://www.allthingsdogs.com/wp-content/uploads/2020/05/Red-Fox-Lab-Dog.jpg"
+      },
+      {
+        "id": "XD2Qp6CzJozbm0s13n8SE",
+        "createdAt": 1580855267978,
+        "name": "Batman",
+        "type": "Dog",
+        "user": "jBWMVGjm50l6LGweDoty"
+      },
+      {
+        "id": "cflYwdm0wciAZYw39hxnz",
+        "createdAt": 1850856821958,
+        "name": "Miso",
+        "type": "Cat",
+        "user": "jBWMVGjm50l6LGweDoty"
+      },
+      {
+        "id": "Qjw4XPZ7kDL4eY2tvHHLD",
+        "createdAt": 1580858013314,
+        "name": "Luna",
+        "type": "Dog",
+        "user": "jBWMVGjm50l6LGweDoty"
+      },
+      {
+        "id": "r9WE4QLFqG8ZEAjY5PhPh",
+        "createdAt": 1580858022373,
+        "name": "Tesla",
+        "type": "Dog",
+        "user": "jBWMVGjm50l6LGweDoty"
+      },
+      {
+        "id": "W6V9TvXs0o9ag49yH9rjj",
+        "createdAt": "1580901188268",
+        "name": "Garfield",
+        "type": "Cat",
+        "user": "jBWMVGjm50l6LGweDoty"
+      },
+      {
+        "id": "5khqmEmeVzq9n8YaD0rb_",
+        "createdAt": 1589364413360,
+        "name": "Lucky",
+        "type": "Dog"
+      },
+      {
+        "id": "5VNthMaaRnH8n-x49rqAj",
+        "createdAt": 1589364726485,
+        "name": "Einstein",
+        "type": "Dog"
+      }
+    ]
+  }
+
